@@ -1,0 +1,2 @@
+# The application is built against the 0.3.x Converter API.
+indra-ocr==0.3.2
